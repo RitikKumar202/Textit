@@ -15,4 +15,4 @@
 
 # 💻Tech Stack
 
-React, Mongodb, Express, Nodejs, Html, CSS.
+Reactjs, Mongodb, Nodejs, Socket.io, Html, CSS.
