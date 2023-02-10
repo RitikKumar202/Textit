@@ -1,5 +1,4 @@
-
-# Steps to Start the App
+# 🎯Steps to Start the App
 
 ## Install the Public Dependencies
 
@@ -14,7 +13,6 @@
 ## And the Textit Messaging Application would be running successfully by now.
 
 
-## Tech Stack
+# 💻Tech Stack
 
 React, Mongodb, Express, Nodejs, Html, CSS.
-
